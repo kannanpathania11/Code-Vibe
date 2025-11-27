@@ -37,6 +37,7 @@ npm run dev
 ```
 
 🙋‍♀️ Status
+
 This project is Actively under development.
 Core architecture is ready — AI features & dashboard in progress.
 
